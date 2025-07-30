@@ -64,3 +64,6 @@ This project involves end-to-end data analysis on the **Global Superstore** data
 ## 📬 Let’s Connect  
 I’d be happy to connect with like-minded individuals.  
 If you have suggestions, ideas, opportunities, or would like to collaborate, feel free to reach out 😊
+
+[GitHub Profile](https://github.com/Bhavanaguruswamy)
+
