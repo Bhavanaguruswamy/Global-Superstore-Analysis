@@ -52,6 +52,15 @@ This project involves end-to-end data analysis on the **Global Superstore** data
 
 ---
 
-## 🔗 Connect with Me
-If you're interested in collaborating or hiring, feel free to connect!
+## 📌 Author
 
+**Bhavana Guruswamy**
+
+
+## 👩‍💻 Author  
+**Bhavana Guruswamy**
+
+
+## 📬 Let’s Connect  
+I’d be happy to connect with like-minded individuals.  
+If you have suggestions, ideas, opportunities, or would like to collaborate, feel free to reach out 😊
