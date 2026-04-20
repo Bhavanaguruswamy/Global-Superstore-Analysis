@@ -67,7 +67,9 @@ The interactive dashboard includes:
 - Region-wise performance analysis  
 - Category and sub-category breakdown  
 - Time-series trends (monthly/yearly)  
-- Filters for dynamic data exploration  
+- Filters for dynamic data exploration
+
+- Interactive Power BI dashboard showcasing sales, profit, and regional performance: 
 
 ![Global Superstore Dashboard](Global_Superstore_Dashboard_powbi.png)
 
