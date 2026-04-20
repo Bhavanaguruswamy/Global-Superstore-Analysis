@@ -69,7 +69,7 @@ The interactive dashboard includes:
 - Time-series trends (monthly/yearly)  
 - Filters for dynamic data exploration  
 
-![Dashboard](dashboard.png)
+![Global Superstore Dashboard](Global_Superstore_Dashboard_powbi.png)
 
 ---
 
